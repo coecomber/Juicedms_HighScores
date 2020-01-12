@@ -29,8 +29,9 @@ class HighScoresApplicationTests {
 	@Autowired
 	private ObjectMapper objectMapper;
 
+	//Integration test
 	@Test
-	void TestFullPath() throws Exception {
+	void TestGettingHighestPoweredPlayer() throws Exception {
 		HighscoresLogic highscoresLogic = new HighscoresLogic();
 
 		mockMvc.perform(get("/public/highscores/get/{amount}", 1)
@@ -40,6 +41,7 @@ class HighScoresApplicationTests {
 		System.out.println(highScoreModelList + " = highscoresModelList");
 		for( HighScoreModel currentHighScoreModel : highScoreModelList){
 			assertThat(currentHighScoreModel.getName()).isEqualTo("Juiced");
+			assertThat(currentHighScoreModel.getPower()).isAtLeast(10);
 		}
 	}
 }

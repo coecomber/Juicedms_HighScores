@@ -8,11 +8,6 @@ public class HighScoreModel {
     public HighScoreModel() {
     }
 
-    public HighScoreModel(String name, int power) {
-        this.name = name;
-        this.power = power;
-    }
-
     public String getName() {
         return name;
     }

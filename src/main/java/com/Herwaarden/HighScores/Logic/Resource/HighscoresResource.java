@@ -22,11 +22,4 @@ public class HighscoresResource {
 
         return highscoresLogic.getTopHighscoresByAmount(amount);
     }
-
-    @GetMapping("/private/highscores/get/{amount}")
-    public List<HighScoreModel> getHighscoresPrivate(@PathVariable("amount") int amount){
-        HighscoresLogic highscoresLogic = new HighscoresLogic();
-
-        return highscoresLogic.getTopHighscoresByAmount(amount);
-    }
 }
