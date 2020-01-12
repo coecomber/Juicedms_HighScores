@@ -2,7 +2,7 @@
  The high scores service for my project
 
 
-[![Build Status](https://travis-ci.com/coecomber/Juicedms_HighScores.svg)](https://travis-ci.com/coecomber/Juicedms_HighScores) ![Build Status](https://img.shields.io/docker/cloud/build/coecomber/juicedms_highscores) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=coecomber_Juicedms_HighScores&metric=alert_status)](https://sonarcloud.io/dashboard?id=coecomber_Juicedms_HighScores)
+[![Build Status](https://travis-ci.com/coecomber/Juicedms_HighScores.svg)](https://travis-ci.com/coecomber/Juicedms_HighScores) ![Build Status](https://img.shields.io/docker/cloud/build/coecomber/juicedms_highscores) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=coecomber_Juicedms_HighScores&metric=alert_status)](https://sonarcloud.io/dashboard?id=coecomber_Juicedms_HighScores) [![codecov](https://codecov.io/gh/coecomber/Juicedms_HighScores/branch/master/graph/badge.svg)](https://codecov.io/gh/coecomber/Juicedms_HighScores)
 
 &nbsp;
 
