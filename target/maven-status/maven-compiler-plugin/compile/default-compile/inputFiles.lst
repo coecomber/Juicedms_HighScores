@@ -1,0 +1,11 @@
+C:\Users\Joost\Documents\GitHub\Juicedms_HighScores\src\main\java\com\Herwaarden\HighScores\DAL\Interface\Repository\IHighscoresRepository.java
+C:\Users\Joost\Documents\GitHub\Juicedms_HighScores\src\main\java\com\Herwaarden\HighScores\Logic\HighscoresLogic.java
+C:\Users\Joost\Documents\GitHub\Juicedms_HighScores\src\main\java\com\Herwaarden\HighScores\Logic\Security\AudienceValidator.java
+C:\Users\Joost\Documents\GitHub\Juicedms_HighScores\src\main\java\com\Herwaarden\HighScores\DAL\Interface\Context\IHighscoresContext.java
+C:\Users\Joost\Documents\GitHub\Juicedms_HighScores\src\main\java\com\Herwaarden\HighScores\Logic\Security\WebSecurityConfig.java
+C:\Users\Joost\Documents\GitHub\Juicedms_HighScores\src\main\java\com\Herwaarden\HighScores\Model\HighScoreModel.java
+C:\Users\Joost\Documents\GitHub\Juicedms_HighScores\src\main\java\com\Herwaarden\HighScores\HighScoresApplication.java
+C:\Users\Joost\Documents\GitHub\Juicedms_HighScores\src\main\java\com\Herwaarden\HighScores\DAL\Context\HighscoresContextSQL.java
+C:\Users\Joost\Documents\GitHub\Juicedms_HighScores\src\main\java\com\Herwaarden\HighScores\Factory\HighscoresFactory.java
+C:\Users\Joost\Documents\GitHub\Juicedms_HighScores\src\main\java\com\Herwaarden\HighScores\Logic\Resource\HighscoresResource.java
+C:\Users\Joost\Documents\GitHub\Juicedms_HighScores\src\main\java\com\Herwaarden\HighScores\DAL\Repository\HighscoresRepository.java

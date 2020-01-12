@@ -1,0 +1,11 @@
+com\Herwaarden\HighScores\DAL\Context\HighscoresContextSQL.class
+com\Herwaarden\HighScores\Model\HighScoreModel.class
+com\Herwaarden\HighScores\DAL\Interface\Repository\IHighscoresRepository.class
+com\Herwaarden\HighScores\Logic\HighscoresLogic.class
+com\Herwaarden\HighScores\DAL\Repository\HighscoresRepository.class
+com\Herwaarden\HighScores\Factory\HighscoresFactory.class
+com\Herwaarden\HighScores\Logic\Resource\HighscoresResource.class
+com\Herwaarden\HighScores\DAL\Interface\Context\IHighscoresContext.class
+com\Herwaarden\HighScores\Logic\Security\WebSecurityConfig.class
+com\Herwaarden\HighScores\HighScoresApplication.class
+com\Herwaarden\HighScores\Logic\Security\AudienceValidator.class
