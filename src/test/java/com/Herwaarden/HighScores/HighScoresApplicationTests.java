@@ -3,7 +3,6 @@ package com.Herwaarden.HighScores;
 
 import com.Herwaarden.HighScores.Logic.HighscoresLogic;
 import com.Herwaarden.HighScores.Model.HighScoreModel;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,7 +15,6 @@ import java.util.List;
 
 import static com.google.common.truth.Truth.assertThat;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 @ExtendWith(SpringExtension.class)
 @SpringBootTest
@@ -25,9 +23,6 @@ class HighScoresApplicationTests {
 
 	@Autowired
 	private MockMvc mockMvc;
-
-	@Autowired
-	private ObjectMapper objectMapper;
 
 	//Integration test
 	@Test
